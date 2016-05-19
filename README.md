@@ -1,1 +1,2 @@
-# PracticalTest02
+Budau Alexandru
+342 C1
